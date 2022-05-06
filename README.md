@@ -8,7 +8,7 @@ In this version there is **one player versus a computer**.
 ---
 
 ### Rules of the game:
-The requirements for the project were:
+(The requirements for the project were)
 1. Program on **C**, one player vs. computer.
 2. There should be **5 ships** (with consecutive coordinates) per player. 
 3. The ships should be with field lenghts as follows - one with **4**, one with **3**, **two with 2** and one with **1** field.
